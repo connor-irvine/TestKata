@@ -47,7 +47,22 @@
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestKata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestKata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestKata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestKata" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
